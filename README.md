@@ -1,42 +1,48 @@
 # Hi, I'm Sumedh Rambhau Ambhore! 👋
 
-### 🚀 Full Stack Python Developer | B.Tech CSE @ Sandip University
+### 🚀 Full Stack Python Developer | B.Tech CSE Student
 
-I am a fourth-year Computer Science and Engineering student with hands-on experience in building robust web applications using **Python, Django, and Flask**. Currently, I am expanding my skills as a **Software Engineer Trainee** at **Cravita Technologies**.
+[cite_start]I am a fourth-year Computer Science and Engineering student at **Sandip University** (Class of 2026)[cite: 32, 33]. [cite_start]I specialize in building robust backend systems and user-friendly web applications using **Python, Django, and Flask**[cite: 3, 4, 13]. 
 
-- 🔭 I’m currently working on: **Backend architecture and CRUD operations**.
-- 🌱 I’m currently learning: **Advanced AI Integration and 2D Animation**.
-- 👯 I’m looking to collaborate on: **Python-based Web Projects**.
-- 💬 Ask me about: **Flask, Django, and SQLite**.
-- 📫 Reach me at: **sumedhambhore7@gmail.com**.
+[cite_start]Currently, I am gaining professional experience as a **Software Engineer Trainee** at **Cravita Technologies**[cite: 14, 15].
+
+- [cite_start]🔭 **Current Focus:** Developing backend applications and managing database interactions with SQLite[cite: 17, 18].
+- [cite_start]🌱 **Learning:** Advanced AI integration and 2D animation tools[cite: 28].
+- ⚡ **Fun Fact:** I run a YouTube channel called **Comic Masala** and am building a custom animation tool!
+- [cite_start]📫 **Contact:** sumedhambhore7@gmail.com [cite: 3]
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages & Databases**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) [cite: 9]
 
 **Frameworks & Frontend**
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511fa.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[cite_start]![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511fa.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [cite: 13]
 
 **Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) [cite: 13]
 
 ---
 
-### 📂 Featured Projects
+### 📂 Top Projects
 
-- **Recipe Sharing Platform (The Digital Kitchen)**
-  - Full-stack application using **Flask and SQLite** for culinary data management.
-  - Implemented **RESTful architecture** and responsive UI.
-
-- **AI-Powered Education Platform**
-  - Integrated **AI agents** for personalized content recommendations.
-  - Interactive dashboard designed with **JavaScript and CSS3**.
+* **[Recipe Sharing Platform (The Digital Kitchen)](https://github.com/SumedhAmbhore7/recipe-sharing-platform)**
+    * [cite_start]Full-stack application built with **Flask and SQLite**[cite: 21, 22].
+    * [cite_start]Features a responsive interface and RESTful architecture for managing culinary data[cite: 26, 27].
+* **[AI-Powered Education Platform](https://github.com/SumedhAmbhore7/AI-Powered-Education-Platform)**
+    * [cite_start]Integrated **AI agents** for personalized learning assistance and content recommendations[cite: 28].
+    * [cite_start]Interactive dashboard built with **JavaScript and CSS3**[cite: 29].
+* **[Groott Clone](https://github.com/SumedhAmbhore7/Groott_Clone)**
+    * A frontend-focused project demonstrating UI/UX replication skills.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 ![Sumedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhAmbhore7&show_icons=true&theme=radical)
-![Top Langs](
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhAmbhore7&layout=compact&theme=radical)
+
+---
+
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sumedh-ambhore-3136502b4/)
